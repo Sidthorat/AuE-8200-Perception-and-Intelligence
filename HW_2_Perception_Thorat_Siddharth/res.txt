@@ -1,1 +1,0 @@
-Visuzlization of Lidar Point Cloud and Radar Point cloud of Nuscenes Mini Data Set
