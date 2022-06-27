@@ -1,4 +1,4 @@
-# AuE- Machine Perception-and-Intelligence
+# AuE-8200 Machine Perception-and-Intelligence
 This repository is created based on the coursework assignments which covers considering different vehicle perceptions tasks.
 
 Introduction-
