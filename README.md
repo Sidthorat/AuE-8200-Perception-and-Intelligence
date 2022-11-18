@@ -1,14 +1,18 @@
 # AuE-8200 Machine Perception-and-Intelligence
 This repository is created based on the coursework assignments which covers considering different vehicle perceptions tasks.
 
-Introduction-
+##INSTRUCTOR: Dr. Bing Li
+
+Assistant Professor
+
+##Introduction-
 With the increasing demand, scale, and data information of autonomous vehicle systems, perception and sensing is the first stage in the computational pipeline for vehicles to
 continuously 'see' the surrounding environment as well as tracking their movements. Further, frontier machine intelligence algorithms empower vehicles to recognize scenes and scene
 context (e.g, objects, and hazards) so that vehicles can make safe and effective decisions. Therefore, there are essential needs to incorporate the fundamental knowledge and skillets of
 perception and intelligence into curricula for automotive programs. This course will introduce the fundamental technologies for autonomous vehicle sensors, perception, and machine learning, from electromagnetic spectrum characteristics and signal acquisition, vehicle extrospective sensor data analysis, perspective geometry models, image
 and point cloud processing, to machine/deep learning approaches. We will also have hands-on programming experience in vehicle perception problems through homework and class projects.
 
-COURSE OBJECTIVES & OUTCOMES-
+##COURSE OBJECTIVES & OUTCOMES-
 •	For different perceptive sensing modalities in the electromagnetic spectrum, the students will be able to identify their characteristics including pros and cons, and application scenarios.
 •	Given a perceptive sensing dataset, the students will be able to use related libraries perform basic and geometric processing for the sensor data.
 •	Given a perceptive sensing dataset with labelling, the students will be able to use machine learning and deep learning framework and libraries for recognition tasks.
@@ -17,7 +21,7 @@ COURSE OBJECTIVES & OUTCOMES-
 •	Apply machine learning (including deep learning) approaches for perceptual sensor data processing and analysis.
 •	Evaluate the performance of machine perceptual sensor data processing algorithm results.
 
-COURSE TOPICS-
+##COURSE TOPICS-
 •	Vehicle sensors and signals
 •	Signal, spectrum, and vehicle perception sensors
 •	Automotive radar signal processing 
